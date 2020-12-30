@@ -1,4 +1,5 @@
 dependencies:
   name: httpd-application
   src: git@github.com:laconic75/ansible-centos8-httpd-application.git
+  scm: git
   version: master
